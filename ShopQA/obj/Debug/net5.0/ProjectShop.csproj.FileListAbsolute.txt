@@ -1,0 +1,355 @@
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\appsettings.Development.json
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\appsettings.json
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\ProjectShop.exe
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\ProjectShop.deps.json
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\ProjectShop.runtimeconfig.json
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\ProjectShop.runtimeconfig.dev.json
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\ProjectShop.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\ProjectShop.pdb
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\ProjectShop.Views.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\ProjectShop.Views.pdb
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\Humanizer.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\lap trinh web\Teach_PRN211\Slot10\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.csproj.AssemblyReference.cache
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.AssemblyInfoInputs.cache
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.AssemblyInfo.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.csproj.CoreCompileInputs.cache
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.MvcApplicationPartsAssemblyInfo.cache
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.RazorAssemblyInfo.cache
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.RazorAssemblyInfo.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\scopedcss\bundle\ProjectShop.styles.css
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\staticwebassets\ProjectShop.StaticWebAssets.Manifest.cache
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.TagHelpers.input.cache
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.TagHelpers.output.cache
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.RazorCoreGenerate.cache
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Views\Home\DanhsachDMH.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Views\Home\FormDK.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Views\Home\FormLogin.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Views\Home\GiaodienEdit.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Views\Home\QuanLy.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Views\Home\Trangchu.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Views\Home\XemGH.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.RazorTargetAssemblyInfo.cache
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.RazorTargetAssemblyInfo.cs
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.Views.pdb
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.csproj.CopyComplete
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.dll
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\refint\ProjectShop.dll
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.pdb
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ProjectShop.genruntimeconfig.cache
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\ref\ProjectShop.dll
+D:\lap trinh web\Teach_PRN211\Slot10\obj\Debug\net5.0\Razor\Views\Home\Chitiet.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\appsettings.Development.json
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\appsettings.json
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\ProjectShop.exe
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\ProjectShop.deps.json
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\ProjectShop.runtimeconfig.json
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\ProjectShop.runtimeconfig.dev.json
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\ProjectShop.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\ProjectShop.pdb
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\ProjectShop.Views.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\ProjectShop.Views.pdb
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\Humanizer.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.csproj.AssemblyReference.cache
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.AssemblyInfoInputs.cache
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.AssemblyInfo.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.csproj.CoreCompileInputs.cache
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.MvcApplicationPartsAssemblyInfo.cache
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.RazorAssemblyInfo.cache
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.RazorAssemblyInfo.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\scopedcss\bundle\ProjectShop.styles.css
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\staticwebassets\ProjectShop.StaticWebAssets.Manifest.cache
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.TagHelpers.input.cache
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.TagHelpers.output.cache
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.RazorCoreGenerate.cache
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Views\Home\Chitiet.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Views\Home\DanhsachDMH.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Views\Home\FormDK.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Views\Home\FormLogin.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Views\Home\GiaodienEdit.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Views\Home\QuanLy.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Views\Home\Trangchu.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\Razor\Views\Home\XemGH.cshtml.g.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.RazorTargetAssemblyInfo.cache
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.RazorTargetAssemblyInfo.cs
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.Views.pdb
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.csproj.CopyComplete
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\refint\ProjectShop.dll
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.pdb
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ProjectShop.genruntimeconfig.cache
+D:\lap trinh web\Teach_PRN211\ShopQA\obj\Debug\net5.0\ref\ProjectShop.dll
+E:\bt\ShopQA\bin\Debug\net5.0\appsettings.Development.json
+E:\bt\ShopQA\bin\Debug\net5.0\appsettings.json
+E:\bt\ShopQA\bin\Debug\net5.0\ProjectShop.exe
+E:\bt\ShopQA\bin\Debug\net5.0\ProjectShop.deps.json
+E:\bt\ShopQA\bin\Debug\net5.0\ProjectShop.runtimeconfig.json
+E:\bt\ShopQA\bin\Debug\net5.0\ProjectShop.runtimeconfig.dev.json
+E:\bt\ShopQA\bin\Debug\net5.0\ProjectShop.dll
+E:\bt\ShopQA\bin\Debug\net5.0\ProjectShop.pdb
+E:\bt\ShopQA\bin\Debug\net5.0\ProjectShop.Views.dll
+E:\bt\ShopQA\bin\Debug\net5.0\ProjectShop.Views.pdb
+E:\bt\ShopQA\bin\Debug\net5.0\Humanizer.dll
+E:\bt\ShopQA\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\bt\ShopQA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\bt\ShopQA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\bt\ShopQA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\bt\ShopQA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\bt\ShopQA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\bt\ShopQA\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\bt\ShopQA\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\bt\ShopQA\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\bt\ShopQA\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\bt\ShopQA\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\bt\ShopQA\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\bt\ShopQA\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\bt\ShopQA\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\bt\ShopQA\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\bt\ShopQA\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\bt\ShopQA\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\bt\ShopQA\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\bt\ShopQA\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\bt\ShopQA\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\bt\ShopQA\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.csproj.AssemblyReference.cache
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.AssemblyInfoInputs.cache
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.AssemblyInfo.cs
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.csproj.CoreCompileInputs.cache
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.MvcApplicationPartsAssemblyInfo.cache
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.RazorAssemblyInfo.cache
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.RazorAssemblyInfo.cs
+E:\bt\ShopQA\obj\Debug\net5.0\scopedcss\bundle\ProjectShop.styles.css
+E:\bt\ShopQA\obj\Debug\net5.0\staticwebassets\ProjectShop.StaticWebAssets.Manifest.cache
+E:\bt\ShopQA\obj\Debug\net5.0\staticwebassets\ProjectShop.StaticWebAssets.Pack.cache
+E:\bt\ShopQA\obj\Debug\net5.0\staticwebassets\msbuild.ProjectShop.Microsoft.AspNetCore.StaticWebAssets.props
+E:\bt\ShopQA\obj\Debug\net5.0\staticwebassets\msbuild.build.ProjectShop.props
+E:\bt\ShopQA\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ProjectShop.props
+E:\bt\ShopQA\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ProjectShop.props
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.TagHelpers.input.cache
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.TagHelpers.output.cache
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.RazorCoreGenerate.cache
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Views\Home\Chitiet.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Views\Home\DanhsachDMH.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Views\Home\FormDK.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Views\Home\FormLogin.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Views\Home\GiaodienEdit.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Views\Home\QuanLy.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Views\Home\Trangchu.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\Razor\Views\Home\XemGH.cshtml.g.cs
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.RazorTargetAssemblyInfo.cache
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.RazorTargetAssemblyInfo.cs
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.Views.pdb
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.csproj.CopyComplete
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.dll
+E:\bt\ShopQA\obj\Debug\net5.0\refint\ProjectShop.dll
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.pdb
+E:\bt\ShopQA\obj\Debug\net5.0\ProjectShop.genruntimeconfig.cache
+E:\bt\ShopQA\obj\Debug\net5.0\ref\ProjectShop.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\appsettings.Development.json
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\appsettings.json
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\ProjectShop.exe
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\ProjectShop.deps.json
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\ProjectShop.runtimeconfig.json
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\ProjectShop.runtimeconfig.dev.json
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\ProjectShop.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\ProjectShop.pdb
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\ProjectShop.Views.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\ProjectShop.Views.pdb
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\Humanizer.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.csproj.AssemblyReference.cache
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.AssemblyInfoInputs.cache
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.AssemblyInfo.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.csproj.CoreCompileInputs.cache
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.MvcApplicationPartsAssemblyInfo.cache
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.RazorAssemblyInfo.cache
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.RazorAssemblyInfo.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\scopedcss\bundle\ProjectShop.styles.css
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\staticwebassets\ProjectShop.StaticWebAssets.Manifest.cache
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\staticwebassets\ProjectShop.StaticWebAssets.Pack.cache
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\staticwebassets\msbuild.ProjectShop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\staticwebassets\msbuild.build.ProjectShop.props
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ProjectShop.props
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ProjectShop.props
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.TagHelpers.input.cache
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.TagHelpers.output.cache
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.RazorCoreGenerate.cache
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Views\Home\Chitiet.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Views\Home\DanhsachDMH.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Views\Home\FormDK.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Views\Home\FormLogin.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Views\Home\GiaodienEdit.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Views\Home\QuanLy.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Views\Home\Trangchu.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Views\Home\XemGH.cshtml.g.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.RazorTargetAssemblyInfo.cache
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.RazorTargetAssemblyInfo.cs
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.Views.pdb
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.csproj.CopyComplete
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\refint\ProjectShop.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.pdb
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ProjectShop.genruntimeconfig.cache
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\ref\ProjectShop.dll
+D:\PRN301\Project Final\1-file-.sql-217480201030_Đinh-Quang-Tuấn-_K47ACNTT\(1) 217480201030_Đinh Quang Tuấn _K47ACNTT\ShopQA\obj\Debug\net5.0\Razor\Views\Home\XoaSP.cshtml.g.cs
